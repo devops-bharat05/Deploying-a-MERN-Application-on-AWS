@@ -127,4 +127,4 @@ cd mern-aws-deployment
 #### **Security Hardening**  
 - Disable root login for SSH.  
 - Restrict access to EC2 instances using security groups.  
-```
+

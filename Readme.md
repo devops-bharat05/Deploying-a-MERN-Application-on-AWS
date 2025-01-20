@@ -1,9 +1,9 @@
-**# MERN Stack Application Deployment on AWS using Terraform and Ansible**  
+# **MERN Stack Application Deployment on AWS using Terraform and Ansible**  
 
-**## Project Title**  
+## **Project Title**  
 TravelMemory: Deploying a Full-Stack MERN Application on AWS with Infrastructure Automation  
 
-**## Project Description**  
+## **Project Description**  
 This project focuses on deploying a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application called **TravelMemory** on AWS. Terraform is used to provision AWS infrastructure, while Ansible handles server configuration and application deployment. The setup ensures a secure, scalable, and production-ready environment.  
 
 ---
